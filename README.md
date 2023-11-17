@@ -1,9 +1,9 @@
 # Frontend Mentor - Results summary component
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
-pagina; https://justandyj.github.io/results-summary-component-main/
 
 ## Welcome! 👋
+https://justandyj.github.io/results-summary-component-main/
 
 Thanks for checking out this front-end coding challenge.
 
